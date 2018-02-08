@@ -1,0 +1,43 @@
+
+#calculator
+{
+	width:500px;
+	height:400px;
+	background-color:#aaccbb;
+
+}
+
+#title 
+{
+	background-color:#11aa22;
+	text-align:center;
+	color:#ccffff;
+}
+form input[type="text"]
+{
+	width:450px;
+	height: 30px;
+	display: block;
+  	margin: 5px auto 5px auto;
+  	padding: 3px;
+  	margin-top:-13px;
+
+}
+::placeholder
+{
+	text-align:right;
+	font-size:20px;
+	text-indent:120px;
+}
+#numbers button
+{
+	width:100px;
+	height:50px;
+	display: inline-block;
+	margin: 5px auto 5px auto;
+	padding: 30px;
+	background-color:#123abc;
+	color:#ccffff;
+	border-style:none;
+	border-radius:2px;
+}
